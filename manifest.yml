@@ -1,8 +1,8 @@
 ---
 name : twitter-2.0
 website : http://twitter.github.com/bootstrap
-git_url : git://github.com/gdagley/theme-twitter-2.0.git
-source_url : https://github.com/gdagley/theme-twitter-2.0.git
+git_url : git://github.com/prasincs/shumsky
+source_url : https://github.com/prasincs/shumsky.git
 author:
   name : "Jacob Thornton and Mark Otto"
   website : http://twitter.github.com/bootstrap
